@@ -1,2 +1,2 @@
-# peterravn
-endelig version af hjemmeside til Peter Ravn
+# gruppe21_eksamen
+Gruppe 21 eksamensprojekt
